@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 
-- 💻 **Web Developer**: Proficient in **Vue**, **React**, **Nuxt**, **Next**, and **Node.js**.  
+- 💻 **Web Developer**: Proficient in **Vue**, **Nuxt**, and **Node.js**.  
 - 🎨 **Creative Designer**: I love building modern, responsive, and elegant web apps.  
 - 🌌 **Futuristic Thinker**: Inspired by clean aesthetics and advanced technologies.  
 - 🎮 **Gaming Enthusiast**: Passionate about design influences from the gaming world.  
@@ -16,7 +16,7 @@
 ## 🛠️ My Toolbox  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,next,nodejs,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,nodejs,git,github,vscode" alt="Tech Stack" />
 </div>
 
 ---
