@@ -4,12 +4,6 @@
 
 ---
 
-<div align="center">
-  <img src="./isha-isha-arcane.gif" alt="Tech Stack" />
-</div>
-
----
-
 ## 🚀 About Me  
 
 - 💻 **Web Developer**: Proficient in **Vue**, **React**, **Nuxt**, **Next**, and **Node.js**.  
