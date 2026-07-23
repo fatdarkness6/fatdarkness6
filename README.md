@@ -39,7 +39,7 @@
 
 ## 🌐 Let's Connect!  
 [![Email Badge](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:arsamsarkhosh4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/arsam-sarkhosh-3abb40420)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsam-sarkhosh-3abb40420)
 
 ---
 
