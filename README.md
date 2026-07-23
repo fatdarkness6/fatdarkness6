@@ -38,10 +38,8 @@
 ---
 
 ## 🌐 Let's Connect!  
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fatdarkness6/)
 [![Email Badge](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:arsamsarkhosh4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsam-sarkhosh-a9540733a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/arsam-sarkhosh-3abb40420)
 
 ---
 
