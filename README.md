@@ -6,7 +6,7 @@
 
 ### 👋 Hey, I'm Arsam
 
-**Full-Stack Developer** focused on building modern, scalable and AI-powered applications.
+**Full-Stack Engineer** focused on building modern, scalable and AI-powered applications.
 
 Frontend ⚡ Backend ⚙️ Databases 🗄️ AI 🤖
 
