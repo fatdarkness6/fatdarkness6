@@ -20,11 +20,16 @@ Frontend ⚡ Backend ⚙️ Databases 🗄️ AI 🤖
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,nuxt" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,nuxt" />
+  <img
+    src="https://raw.githubusercontent.com/quasarframework/quasar-art/master/dist/svg/logo.svg"
+    width="48"
+    height="48"
+    alt="Quasar"
+    title="Quasar"
+  />
+</p>
 
 ### Backend
 
