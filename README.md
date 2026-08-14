@@ -1,48 +1,75 @@
-# 🌟 Welcome to Arsam's GitHub Profile! 🌟  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&width=600&lines=Hey+there!+I'm+Arsam+👋;Web+Developer+%7C+Tech+Enthusiast;Lover+of+Frontend+Elegance+and+Clean+Code!)](https://git.io/typing-svg)
-
----
-
-## 🚀 About Me  
-
-- 💻 **Web Developer**: Proficient in **Vue**, **Nuxt**, and **Node.js**.  
-- 🎨 **Creative Designer**: I love building modern, responsive, and elegant web apps.  
-- 🌌 **Futuristic Thinker**: Inspired by clean aesthetics and advanced technologies.  
-- 🎮 **Gaming Enthusiast**: Passionate about design influences from the gaming world.  
-
----
-
-## 🛠️ My Toolbox  
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,nodejs,git,github,vscode" alt="Tech Stack" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Arsam%20Sarkhosh&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&fontSize=45" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&center=true\&vCenter=true\&width=650\&lines=Full-Stack+Developer+%F0%9F%9A%80;Vue+%7C+Nuxt+%7C+Node.js+%7C+Python;FastAPI+%7C+PostgreSQL+%7C+AI;Building+Modern+%26+Intelligent+Applications+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+### 👋 Hey, I'm Arsam
+
+**Full-Stack Developer** focused on building modern, scalable and AI-powered applications.
+
+Frontend ⚡ Backend ⚙️ Databases 🗄️ AI 🤖
+
 </div>
 
 ---
 
-## 🔥 My GitHub Stats  
+## ⚡ Tech Stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatdarkness6&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=fatdarkness6&theme=tokyonight&hide_border=true" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,nuxt,react,nextjs" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vscode,postman" />
+
 </div>
 
 ---
-## 🎮 Fun Facts  
 
-- 🕹️ Gaming inspires my design and coding style.  
-- 🌱 I'm always learning and exploring the **latest web technologies**.  
-- ✨ I strive to blend **simplicity** with **style** in every project.  
+## 🤖 AI & Backend Skills
+
+<div align="center">
+
+![LLM](https://img.shields.io/badge/LLM%20Integration-111827?style=for-the-badge\&logo=openai\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Vector%20Embeddings-2563EB?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-EF4444?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+</div>
 
 ---
 
-## 🌐 Let's Connect!  
-[![Email Badge](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:arsamsarkhosh4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsam-sarkhosh-3abb40420)
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fatdarkness6&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=fatdarkness6&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60%" />
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsam%20Sarkhosh-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/arsam-sarkhosh-3abb40420)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:arsamsarkhosh4@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%" />
+
 </div>
