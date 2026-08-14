@@ -22,13 +22,8 @@ Frontend ⚡ Backend ⚙️ Databases 🗄️ AI 🤖
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,nuxt" />
-  <img
-    src="https://raw.githubusercontent.com/quasarframework/quasar-art/master/dist/svg/logo.svg"
-    width="48"
-    height="48"
-    alt="Quasar"
-    title="Quasar"
-  />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/quasarframework/quasar-art/master/dist/svg/logo.svg" width="48" height="48" alt="Quasar" />
 </p>
 
 ### Backend
