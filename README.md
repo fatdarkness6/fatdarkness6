@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Arsam%20Sarkhosh&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&fontSize=45" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&center=true\&vCenter=true\&width=650\&lines=Full-Stack+Engineer+%F0%9F%9A%80;Vue+%7C+Nuxt+%7C+Quasar+%7C+Node.js;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+AI;Building+Modern+%26+Intelligent+Applications+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&center=true\&vCenter=true\&width=650\&lines=Full-Stack+Developer+%F0%9F%9A%80;Vue+%7C+Nuxt+%7C+Quasar+%7C+Node.js;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+AI;Building+Modern+%26+Intelligent+Applications+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 ### 👋 Hey, I'm Arsam
 
-**Full-Stack Engineer** focused on building modern, scalable and AI-powered applications.
+**Full-Stack Developer** focused on building modern, scalable and AI-powered applications.
 
 Frontend ⚡ Backend ⚙️ Databases 🗄️ AI 🤖
 
